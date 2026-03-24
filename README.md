@@ -1,4 +1,4 @@
 So if we write our commit message like 
-Readme file updated,
-landing page theme color changed to red,
-Added payment gateway etc etc this is an good commit.
+docs: update README file,
+style: Change landing page theme color to red,
+feat: Add payment gateway etc etc this is an conventional commit. It is like an standard a rule to commit changes.
