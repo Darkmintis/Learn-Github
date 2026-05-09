@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2kzOTVqemY5c2ppaXhreHR0YmRucnAzaG00MHUwZmF0ZG52NHZ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Learn GitHub" width="100%" style="max-width: 600px; border-radius: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Dipesh Mahat Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-# 🚀 learn-github — simple, friendly Git & GitHub practice
+# 🚀 Learn-GitHub - simple, friendly Git & GitHub practice
 
 Welcome! This tiny repo is written to be short, helpful, and fun for absolute beginners. If you don't know Git or GitHub yet, start here. You're in the right place.
 
