@@ -61,7 +61,7 @@ I'm learning Git and GitHub! This is my journey.
 
 - Replace "Your Name" with your real name
 - Personalize the sections (About Me, My Learning Path, etc.)
-- Add a GIF (see `docs/gif-guide.md` for tips)
+- Add a GIF (see [docs/gif-guide.md](docs/gif-guide.md) for tips)
 - Include links to your portfolio, blog, or social media
 
 **Step 4: Commit and push**

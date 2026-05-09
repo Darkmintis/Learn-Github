@@ -24,4 +24,4 @@ docs(readme): fix typo in getting started
 ```
 
 Optional extension
-- After making the change, try adding a small GIF inline to your edit (see `docs/gif-guide.md`) and push another commit.
+- After making the change, try adding a small GIF inline to your edit (see [docs/gif-guide.md](../../docs/gif-guide.md)) and push another commit.

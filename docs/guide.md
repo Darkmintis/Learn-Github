@@ -84,7 +84,7 @@ Why? PRs let others review your code and discuss changes before merging.
 
 Why? Clear messages make history readable. Future you will thank you.
 
-Use Conventional Commits style (see `docs/conventional-commits.md`):
+Use Conventional Commits style (see [docs/conventional-commits.md](../docs/conventional-commits.md)):
 - Bad: "update stuff"
 - Good: `feat: add login form validation`
 - Good: `fix: correct typo in README`
@@ -109,6 +109,6 @@ git fetch
 ```
 
 **Next steps**
-- Practice: do `examples/exercise-1/README.md`
-- Read `docs/conventional-commits.md` for better commit messages
+- Practice: do [examples/exercise-1/README.md](../examples/exercise-1/README.md)
+- Read [docs/conventional-commits.md](../docs/conventional-commits.md) for better commit messages
 - When comfortable, learn about merging, rebasing, and collaborating

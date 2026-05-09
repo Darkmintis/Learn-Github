@@ -23,7 +23,7 @@ Welcome! This tiny repo is written to be short, helpful, and fun for absolute be
 - **Fork**: your own personal copy of someone else's repo on GitHub
 - **Push**: upload your commits to GitHub
 - **Pull**: download new commits from GitHub
-- **Confused by any term?** Check `docs/glossary.md` for simple explanations.
+- **Confused by any term?** Check [docs/glossary.md](docs/glossary.md) for simple explanations.
 
 **Quick hands-on example** (copy & paste these commands)
 
@@ -57,22 +57,22 @@ git push -u origin feature/example
 
 **How this repo helps you learn**
 
-- **Read first:** `docs/glossary.md` if you're confused by any term
-- **Learn Git step-by-step:** `docs/guide.md` (super detailed, explains the "why")
-- **Quick reference:** `docs/cheatsheet.md` (copy & paste commands)
-- **Write better READMEs:** `docs/markdown.md` (Markdown basics)
-- **Better commit messages:** `docs/conventional-commits.md` (how professionals write commits)
-- **Make your profile shine:** `profile-readme.md` (create a beautiful GitHub profile)
-- **Add GIFs to your repos:** `docs/gif-guide.md` (tips + examples)
+- **Read first:** [docs/glossary.md](docs/glossary.md) if you're confused by any term
+- **Learn Git step-by-step:** [docs/guide.md](docs/guide.md) (super detailed, explains the "why")
+- **Quick reference:** [docs/cheatsheet.md](docs/cheatsheet.md) (copy & paste commands)
+- **Write better READMEs:** [docs/markdown.md](docs/markdown.md) (Markdown basics)
+- **Better commit messages:** [docs/conventional-commits.md](docs/conventional-commits.md) (how professionals write commits)
+- **Make your profile shine:** [profile-readme.md](profile-readme.md) (create a beautiful GitHub profile)
+- **Add GIFs to your repos:** [docs/gif-guide.md](docs/gif-guide.md) (tips + examples)
 
 **Try the exercise first!**
 
-Do `examples/exercise-1/README.md` to practice forking, branching, and opening a real PR. It's hands-on and fun.
+Do [examples/exercise-1/README.md](examples/exercise-1/README.md) to practice forking, branching, and opening a real PR. It's hands-on and fun.
 
 ---
 
 **Keep it simple**
-- Start with `docs/guide.md` if you're completely new.
+- Start with [docs/guide.md](docs/guide.md) if you're completely new.
 - Copy examples into your terminal and try them.
 - Don't worry about mistakes — that's how you learn.
-- When stuck, check `docs/glossary.md` for a quick explanation.
+- When stuck, check [docs/glossary.md](docs/glossary.md) for a quick explanation.

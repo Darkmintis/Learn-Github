@@ -59,7 +59,7 @@ Search these on GIPHY or Tenor (or use a direct link):
 
 **6) Example: add a GIF to your profile README**
 
-See `profile-readme.md` for a template. Add a GIF like:
+See [profile-readme.md](../profile-readme.md) for a template. Add a GIF like:
 
 ```markdown
 # Hi, I'm Learning GitHub 👋
